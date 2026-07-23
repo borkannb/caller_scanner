@@ -28,7 +28,10 @@ Download or drag the project to your local machine.
 
 Open the terminal in your project folder, then install the required libraries and executable files:
 
+ 
+
 ```bash
 git clone https://github.com/borkannb/caller_scanner.git
+great phones.txt in dist 
 pip install -r requirements.txt
 python3 main.py

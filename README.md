@@ -18,6 +18,7 @@ Ensure you have the following installed on your system:
    ```bash
    git clone [https://github.com/your-username/caller-scanner.git](https://github.com/borkannb/caller-scanner.git)
    cd caller-scanner
+   cd dist
    pip install -r requirements.txt
    playwright install
 Configuration

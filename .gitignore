@@ -1,0 +1,15 @@
+# Sensitive data & sessions
+sessions_active/
+config.json
+
+# Scan outputs
+results.txt
+unknown.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/

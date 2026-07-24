@@ -1,0 +1,8 @@
+{
+    "max_concurrent_connections": 200,
+    "memory_divisor": 15,
+    "min_memory_limit": 10,
+    "results_file": "results.txt",
+    "unknown_file": "unknown.txt",
+    "phones_file": "phones.txt"
+}

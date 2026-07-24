@@ -20,7 +20,6 @@ Ensure you have the following installed on your system:
    cd caller-scanner
    cd dist
    pip install -r requirements.txt
-   playwright install
 Configuration
 Make sure your configuration files are set up properly before running the tool:
 
